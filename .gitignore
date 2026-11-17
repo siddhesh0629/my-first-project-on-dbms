@@ -1,0 +1,13 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+credential.txt
+credentials.txt
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+vendor/
+node_modules/
